@@ -7,7 +7,7 @@ Anggota kelompok :
 5. 18219099 - Fernaldi Fauzie
 6. 18219112 - Ferdian Airlangga
 
-Instruksi run program kelompok 3:
+Instruksi run program:
 1. Extract semua file dari IF2111_TB_03.zip
 2. Membuka terminal
 3. Melakukan run program dengan perintah "gcc -o game ArrayDinamis.c bacafile.c command.c graf.c komponen.c matriks.c mesinkar.c mesinkata.c move_map.c order.c player.c queue.c stackt.c MAIN.c"
